@@ -302,7 +302,13 @@ Website: https://tayarpancitekspres.com
 
 **Email:** mohamadsafwan.1905@gmail.com
 
-**Postal address:** [TODO — replace with the Operator's registered business address from the SSM cert before publishing]
+**Telephone:** +60 17-307 5473
+
+**Postal address:**
+Residensi Metro Kepong @ Taman Metropolitan Kepong,
+No. 5, Jalan Metro Perdana Barat,
+Kepong, 52100 Wilayah Persekutuan Kuala Lumpur,
+Federal Territory of Kuala Lumpur, Malaysia.
 
 Technical support enquiries about the App itself may be directed to the
 same email address.
